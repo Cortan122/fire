@@ -8,7 +8,7 @@
 
 const struct tb_cell normcolors[13] = {
 	// default
-	{ ' ',    9, 0 },
+	{ ' ',    10, 0 },
 
 	// red/black
 	{ 0x2591, 2, 0 },
